@@ -21,6 +21,14 @@ This is an early research draft. In particular, the applications of the cited gr
 
 Corrections, counterexamples, and mathematical feedback are welcome.
 
+## Declaration of generative AI use
+
+This manuscript was developed with substantial assistance from OpenAI's ChatGPT, including the Astra reasoning model.
+
+The author formulated the research problem and supplied the mathematical context and earlier research materials. Generative AI was used to develop proposed mathematical arguments, construct proof drafts, investigate examples, and prepare the LaTeX manuscript.
+
+The resulting mathematical claims have not yet undergone complete independent verification. This document is being made available as a preliminary research preprint to facilitate mathematical scrutiny, discussion, and correction.
+
 ## Files
 
 - `Finite_Polytopal_Realisation_of_Finite_Premaniplexes.pdf` — current nine-page draft.
